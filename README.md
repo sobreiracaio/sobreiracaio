@@ -13,5 +13,4 @@
 
 
 ## This is my current status at school
-
-[![crocha-s's 42 stats](https://badge.mediaplus.ma/black/crocha-s?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![crocha-s's 42 stats](https://badge.mediaplus.ma/black/crocha-s?1337Badge=off&UM6P=off)]
