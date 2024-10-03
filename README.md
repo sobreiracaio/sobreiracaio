@@ -8,10 +8,8 @@
 
 ## These are the languages and tools I've studied so far
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9445FC)![Arduino](https://img.shields.io/badge/arduino-0D1117.svg?style=for-the-badge&logo=arduino&logoColor=9445FC)![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
-![Sketchup](https://img.shields.io/badge/sketchup-0D1117.svg?style=for-the-badge&logo=sketchup&logoColor=3893F5)![Autocad](https://img.shields.io/badge/autocad-0D1117.svg?style=for-the-badge&logo=autocad&logoColor=3893F5)![Fusion](https://img.shields.io/badge/fusion%20360-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5)![3d Printing](https://img.shields.io/badge/3d printing-0D1117.svg?style=for-the-badge&logo=anycubic&logoColor=3893F5)
-
+![Sketchup](https://img.shields.io/badge/sketchup-0D1117.svg?style=for-the-badge&logo=sketchup&logoColor=3893F5)![Autocad](https://img.shields.io/badge/autocad-0D1117.svg?style=for-the-badge&logo=autocad&logoColor=3893F5)![Fusion](https://img.shields.io/badge/fusion%20360-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5)
 
 
 ## This is my current status at school
-
 [![crocha-s's 42 stats](https://badge.mediaplus.ma/black/crocha-s?1337Badge=off&UM6P=off)]
