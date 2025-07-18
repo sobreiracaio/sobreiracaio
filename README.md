@@ -1,15 +1,27 @@
-# Hello there! 
-:godmode:	I'm an architect transitioning to software engineering!<br>
-🪛 Passionate about eletronics and microcontrollers!<br>
-📚 Currently studying at 42 Porto.<br>
+## 🛠️ Tech Stack
 
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+### Databases
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## These are the languages and tools I've studied so far
-![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9445FC)![Arduino](https://img.shields.io/badge/arduino-0D1117.svg?style=for-the-badge&logo=arduino&logoColor=9445FC)![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
-![Sketchup](https://img.shields.io/badge/sketchup-0D1117.svg?style=for-the-badge&logo=sketchup&logoColor=3893F5)![Autocad](https://img.shields.io/badge/autocad-0D1117.svg?style=for-the-badge&logo=autocad&logoColor=3893F5)![Fusion](https://img.shields.io/badge/fusion%20360-0D1117.svg?style=for-the-badge&logo=autodesk&logoColor=3893F5)
+### Design & CAD
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0078D4?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
+---
 
-## This is my current status at school
+## 📊 42 School Progress
+
 ![crocha-s's 42 stats](https://badge.mediaplus.ma/black/crocha-s?1337Badge=off&UM6P=off)
